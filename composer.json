@@ -1,0 +1,16 @@
+{
+    "name": "dhiego/pagina-institucional",
+    "description": "Pagina institucional para a loja Salazar Geek Store",
+    "autoload": {
+        "psr-4": {
+            "Dhiego\\PaginaInstitucional\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dhiego Balthazar",
+            "email": "dhiegobalthazar@gmail.com"
+        }
+    ],
+    "require": {}
+}
